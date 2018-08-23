@@ -16,6 +16,8 @@
     "chai-http": "^4.0.0",
     "compression": "^1.0.3",
     "cors": "^2.5.2",
+    "eslint": "^3.17.1",
+    "eslint-config-loopback": "^8.0.0",
     "helmet": "^3.10.0",
     "loopback": "^3.19.0",
     "loopback-boot": "^2.6.5",
